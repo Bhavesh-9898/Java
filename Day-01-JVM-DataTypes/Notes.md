@@ -1,22 +1,22 @@
-\# 📘 Day 1 — JVM Architecture \& Data Types
+# 📘 Day 1 — JVM Architecture \& Data Types
 
 
 
-\## 🔹 What is JVM?
+## 🔹 What is JVM?
 
 JVM (Java Virtual Machine) is an engine that provides a runtime environment to execute Java bytecode.
 
 
 
-\### Components of JVM:
+### Components of JVM:
 
-1\. \*\*ClassLoader\*\*
+1. *\*ClassLoader*\*
 
 &#x20;  - Loads class files into memory
 
 
 
-2\. \*\*Runtime Memory Areas\*\*
+2. *\*Runtime Memory Areas*\*
 
 &#x20;  - Method Area
 
@@ -30,7 +30,7 @@ JVM (Java Virtual Machine) is an engine that provides a runtime environment to e
 
 
 
-3\. \*\*Execution Engine\*\*
+3. *\*Execution Engine*\*
 
 &#x20;  - Interpreter
 
@@ -40,11 +40,11 @@ JVM (Java Virtual Machine) is an engine that provides a runtime environment to e
 
 
 
-\---
+---
 
 
 
-\## 🔹 JDK vs JRE vs JVM
+## 🔹 JDK vs JRE vs JVM
 
 
 
@@ -60,51 +60,51 @@ JVM (Java Virtual Machine) is an engine that provides a runtime environment to e
 
 
 
-\---
+---
 
 
 
-\## 🔹 Data Types in Java
+## 🔹 Data Types in Java
 
 
 
-\### 1. Primitive Data Types (8 types)
+### 1. Primitive Data Types (8 types)
 
-\- byte
+- byte
 
-\- short
+- short
 
-\- int
+- int
 
-\- long
+- long
 
-\- float
+- float
 
-\- double
+- double
 
-\- char
+- char
 
-\- boolean
-
-
-
-\### 2. Non-Primitive Data Types
-
-\- String
-
-\- Arrays
-
-\- Classes
-
-\- Interfaces
+- boolean
 
 
 
-\---
+### 2. Non-Primitive Data Types
+
+- String
+
+- Arrays
+
+- Classes
+
+- Interfaces
 
 
 
-\## 🔹 Default Values
+---
+
+
+
+## 🔹 Default Values
 
 
 
@@ -118,7 +118,7 @@ JVM (Java Virtual Machine) is an engine that provides a runtime environment to e
 
 | double | 0.0 |
 
-| char | '\\u0000' |
+| char | 'u0000' |
 
 | boolean | false |
 
@@ -126,37 +126,36 @@ JVM (Java Virtual Machine) is an engine that provides a runtime environment to e
 
 
 
-\---
+---
 
 
 
-\## 🔹 Interview Questions
+## 🔹 Interview Questions
 
 
 
-1\. What is the difference between JDK, JRE, and JVM?
+1. What is the difference between JDK, JRE, and JVM?
 
-2\. What are the memory areas in JVM?
+2. What are the memory areas in JVM?
 
-3\. What is Garbage Collection?
+3. What is Garbage Collection?
 
-4\. Where are local variables stored?
+4. Where are local variables stored?
 
-5\. What is the size of int and double?
-
-
-
-\---
+5. What is the size of int and double?
 
 
 
-\## 🔹 Key Points
+---
 
-\- JVM is platform dependent, Java is platform independent
 
-\- Bytecode runs inside JVM
 
-\- Heap stores objects, Stack stores method calls
+## 🔹 Key Points
 
-\- GC automatically manages memory
+- JVM is platform dependent, Java is platform independent
 
+- Bytecode runs inside JVM
+
+- Heap stores objects, Stack stores method calls
+
+- GC automatically manages memory

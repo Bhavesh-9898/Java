@@ -3,7 +3,7 @@
 | Day | Topic | Status |
 |-----|------|--------|
 | Day 1 | JVM Architecture & Data Types | ✅ |
-| Day 2 | Variables & Control Flow | ⏳ |
+| Day 2 | Variables & Control Flow | ✅ |
 | Day 3 | Strings & Arrays | ⏳ |
 | Day 4 | Exception Handling | ⏳ |
 | Day 5 | OOP Basics | ⏳ |
