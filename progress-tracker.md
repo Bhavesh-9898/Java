@@ -7,7 +7,7 @@
 | Day 3 | Strings & Arrays | ✅ |
 | Day 4 | Exception Handling | ✅ |
 | Day 5 | OOP Basics | ✅ |
-| Day 6 | Collections | ⏳ |
+| Day 6 | Collections | ✅ |
 | Day 7 | Java 8 Features | ⏳ |
 | Day 8 | OOP Concepts | ⏳ |
 | Day 9 | Polymorphism & Abstraction | ⏳ |
