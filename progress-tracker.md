@@ -10,8 +10,8 @@
 | Day 6 | Collections | ✅ |
 | Day 7 | Java 8 Features | ✅ |
 | Day 8 | OOP Concepts | ✅ |
-| Day 9 | Polymorphism & Abstraction | ⏳ |
-| Day 10 | Constructors & equals/hashCode | ⏳ |
+| Day 9 | Polymorphism & Abstraction | ✅ |
+| Day 10 | Constructors & equals/hashCode | ✅ |
 | Day 11 | Design Patterns | ⏳ |
 | Day 12 | List & Set | ⏳ |
 | Day 13 | Map & Queue | ⏳ |
