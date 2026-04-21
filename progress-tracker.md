@@ -12,8 +12,8 @@
 | Day 8 | OOP Concepts | ✅ |
 | Day 9 | Polymorphism & Abstraction | ✅ |
 | Day 10 | Constructors & equals/hashCode | ✅ |
-| Day 11 | Design Patterns | ⏳ |
-| Day 12 | List & Set | ⏳ |
+| Day 11 | Design Patterns | ✅ |
+| Day 12 | List & Set | ✅ |
 | Day 13 | Map & Queue | ⏳ |
 | Day 14 | Concurrent Collections | ⏳ |
 | Day 15 | Threads Basics | ⏳ |
