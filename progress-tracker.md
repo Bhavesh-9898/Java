@@ -15,8 +15,8 @@
 | Day 11 | Design Patterns | ✅ |
 | Day 12 | List & Set | ✅ |
 | Day 13 | Map & Queue | ✅ |
-| Day 14 | Concurrent Collections | ⏳ |
-| Day 15 | Threads Basics | ⏳ |
+| Day 14 | Concurrent Collections | ✅ |
+| Day 15 | Threads Basics | ✅ |
 | Day 16 | Synchronization | ⏳ |
 | Day 17 | ExecutorService | ⏳ |
 | Day 18 | Spring Core | ⏳ |
