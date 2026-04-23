@@ -33,7 +33,21 @@ public class Thread_Lifecycle {
                 }
                 System.out.println("Thread is terminating...");
             }
-        }   
+        }
+
+        MyThread thread = new MyThread(); // New
+        System.out.println("State after creation: " + thread.getState());
+
+        thread.start(); // Runnable/Running
+        System.out.println("State after start: " + thread.getState());
+
+        try {
+            thread.join(); // Waiting for completion
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("State after completion: " + thread.getState()); // Terminated
     }
 
     
